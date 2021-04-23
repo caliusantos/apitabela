@@ -2,7 +2,7 @@
 "produtos": [
 { "id": 1, "Produto": "Roteador", "Modelo": "Wireless" },
 { "id": 2, "Produto": "Cooler", "Modelo": "G61c000v210 R930 Para Portege S20c 5v 300ma Dc Brushless" },
-{ "id": 3, "Produto": "Teclado", "Multilaser TC196": "BCD" },
+{ "id": 3, "Produto": "Teclado", "Modelo": "Multilaser TC196" },
 { "id": 4, "Produto": "Monitor", "Modelo": "LED IPS" }
 ]
 }
